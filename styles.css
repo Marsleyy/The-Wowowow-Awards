@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background: url("https://freefrontend.com/assets/img/css-background-patterns/underwater-css-pattern.png");
+}
+img {
+    width: 550px;    
+}
+h1 {
+    font-family: 'Pattaya', sans-serif;
+    font-size:60px;
+    color:#020A58;
+}
+h2{
+    font-family: 'Maven Pro', sans-serif; 
+    font-size:45px;
+}
+p {
+   font-size:35px; 
+}
+.book { 
+    color:#201C47;
+}
+.game {
+    color:#025451;
+}
+.artist {
+    color:#581845;
+}
+.meme {
+    color:#54020C;
+}
